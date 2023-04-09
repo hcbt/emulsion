@@ -3,9 +3,9 @@ camera:
   firmware: 1.00
 
 processing:
-  colorSpace: sRGB
+  color_space: sRGB
 
-xRawStudio:
+x_raw_studio:
   version: 1.12.0.0
-  serialNumber: 
-  simulationsPath: /Users/hcbt/Library/Application Support/com.fujifilm.denji/X RAW STUDIO/X-T20/X-T20_0100
+  serial_number: 
+  simulations_path: /Users/hcbt/Library/Application Support/com.fujifilm.denji/X RAW STUDIO/X-T20/X-T20_0100
